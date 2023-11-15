@@ -5,12 +5,6 @@
 一位爱生活的半吊子程序员，正在对自己感兴趣的技术学习中~
 ```
 
-#### Contact me
-```
-email: tomstudio@yeah.net
-```
-
-
 <!--
 **iTomstudio/iTomstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
